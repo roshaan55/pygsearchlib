@@ -5,14 +5,14 @@ Python Library to get google search results.
 ```nano
 pip install pygsearchlib
 ```
-## For Upgradation(pythmath):
+## For Upgradation(pygsearchlib):
 ```nano
 pip install --upgrade pygsearchlib
 ```
 
 ## Usage:
 ```py
-from pygsearchlib import GoogleSearch()
+from pygsearchlib import GoogleSearch
 
 google_search = GoogleSearch()
 query = "Python"
