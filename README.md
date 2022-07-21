@@ -12,7 +12,7 @@ pip install --upgrade pygsearchlib
 
 ## Usage:
 ```py
-from pygsearchlib import GoogleSearch
+from pygsearchlib import GoogleSearch()
 
 google_search = GoogleSearch()
 query = "Python"
